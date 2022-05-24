@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "sdkunversioned",
-    "slug": "sdkunversioned",
+    "name": "exposdk-unversioned",
+    "slug": "exposdk-unversioned",
     "version": "1.0.0",
     "sdkVersion": "UNVERSIONED",
     "orientation": "portrait",
